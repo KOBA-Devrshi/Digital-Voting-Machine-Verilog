@@ -20,14 +20,13 @@ The design counts votes for three candidates and verifies the results through si
 ## File Structure
 
 Digital-Voting-Machine
-│
-├── voting_machine.v   # Main voting machine design
-├── voting_tb.v        # Testbench for simulation
-├── waveform.png       # Simulation waveform result
-└── README.md          # Project documentation
+│ voting_machine.v   # Main voting machine design
+├ voting_tb.v        # Testbench for simulation
+├ waveform.png       # Simulation waveform result
+└ README.md          # Project documentation
 
 ## Simulation
 The testbench simulates button presses for each candidate and verifies that the vote counters increment correctly.
 
 ## Author
-Your Name
+Devrshi Shailesh Yaduvansh
